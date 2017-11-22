@@ -121,3 +121,48 @@ __4. Hướng dẫn Upinus__
 Giao diện tutorial
 
 ![](https://i.imgur.com/2Svh5rS.png)
+
+# Sử dụng trang chi tiết sản phẩm
+## Tổng quan
+![alt tong quan](https://i.imgur.com/2Qd4qgr.png)
+
+**(!) Tip**:
+1. Chỉnh sửa tiêu đề sản phẩm
+2. Chỉnh sửa ảnh sản phẩm
+3. Chỉnh sửa collections, tags, type (đồng bộ với shopify)
+4. Chỉnh sửa mô tả sản phẩm, thông tin các biến thể, xem thông tin về shipping
+   của sản phẩm, xem và sửa các note suggest về marketing
+
+
+
+## Chỉnh sửa ảnh sản phẩm
+![alt anh san pham 1](https://i.imgur.com/mqTAUHa.png)
+
+**(!) Tip**:
+1. Click để đổi ảnh thumbnail
+2. Các ảnh sản phẩm sẽ xuất hiện trên shopify
+
+
+![alt anh san pham 2](https://i.imgur.com/sfQyZQn.png)
+
+
+
+## Chỉnh sửa thông tin biến thể
+![alt bien the 1](https://i.imgur.com/JoCWv9d.png)
+**(!) Tip**:
+- *Các biến thể không được đánh dấu ở cột 1 sẽ không xuất hiện trên Shopify*
+- *Mọi thay đổi đều cần click Save changes để lưu, nếu lỡ xóa biến thể có thể F5
+  lại trang để khôi phục*
+
+
+
+## Các bước để thêm biến thể vào sản phẩm:
+![alt add bien the 1](https://i.imgur.com/9jCqUSo.png)
+![alt add bien the 2](https://i.imgur.com/sFi7gLk.png)
+![alt add bien the 3](https://i.imgur.com/yU3ryqa.png)
+
+
+## Lưu ý:
+- Mọi thay đổi chỉ được lưu sau khi click **Save Changes**
+- Sau khi click **Push to Shopify**, hệ thống sẽ lưu lại các thay đổi đồng thời
+  đưa sản phẩm lên shopify
