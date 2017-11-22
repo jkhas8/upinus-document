@@ -166,3 +166,32 @@ Giao diện tutorial
 - Mọi thay đổi chỉ được lưu sau khi click **Save Changes**
 - Sau khi click **Push to Shopify**, hệ thống sẽ lưu lại các thay đổi đồng thời
   đưa sản phẩm lên shopify
+
+
+# Sign up
+
+**Bước 1**: Tạo shop trên [Shopify](https://www.shopify.com/)
+
+**Bước 2**: _Tới [Trang của chúng tôi](http://upinus.com/)_
+
+**Bước 3**: _Điền tên shop của bạn và click **"Get Started Free"**_
+
+![upinus sign up](https://i.imgur.com/h3aR9zt.png)
+
+**Bước 4**: _Trình duyệt sẽ chuyển hướng sang Shopify_
+
+**Bước 5**: _Click "Install unlisted app"_
+
+![install_listed_app](https://i.imgur.com/b2f8ead.png)
+
+**Bước 6**: _Gõ password của bạn và xác nhận lại_
+
+![retype-password](https://i.imgur.com/XkNTGcS.png)
+
+**Bước 7**: _Tích vào "I'm not a robot" và click "Sign up"_
+
+![sign-up](https://i.imgur.com/Fm6sLTU.png)
+
+**Bước 8**: _Trình duyệt chuyển hướng sang trang chủ của Upinus và bạn đã đăng ký **thành công**!_
+
+![](https://i.imgur.com/Hy9drvb.png)
