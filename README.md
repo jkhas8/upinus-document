@@ -195,3 +195,24 @@ Giao diện tutorial
 **Bước 8**: _Trình duyệt chuyển hướng sang trang chủ của Upinus và bạn đã đăng ký **thành công**!_
 
 ![](https://i.imgur.com/Hy9drvb.png)
+
+
+# Settings
+
+![settings](https://i.imgur.com/wGTmJsH.png)
+
+**Tương ứng với các số trên hình:**
+
+1. Giá các sản phầm đươc import tự động nhân với tỉ lệ bạn nhập
+
+2. Giá so sánh tự động được nhân với tỉ lệ bạn nhập
+
+3. Xem ví dụ về giá và giá so sánh cho cùng 1 sản phẩm
+
+4. Lưu lại tỉ lệ về giá và giá so sánh
+
+5. Số điện thoại mặc định, thay thế cho số điện thoại của khách hàng(**cần có extension để sử dụng**)
+
+6. Để lại ghi chú trên trang thanh toán hàng(**cần có extension để sử dụng**)
+
+7. Lưu lại cài đặt
