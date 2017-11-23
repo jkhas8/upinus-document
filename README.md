@@ -216,3 +216,17 @@ Giao diện tutorial
 6. Để lại ghi chú trên trang thanh toán hàng(**cần có extension để sử dụng**)
 
 7. Lưu lại cài đặt
+
+
+# Trang danh sách sản phẩm đã pin
+
+![](https://i.imgur.com/W0MgnR7.png)
+
+### Lọc sản phẩm
+* Lọc theo ngày
+![](https://i.imgur.com/NdWZWSp.png)
+* Lọc theo nguồn hoặc từ khóa
+![](https://i.imgur.com/MxloLGt.png)
+
+### Thao tác với các sản phẩm đã pin
+![](https://i.imgur.com/ZmUrTch.png)
